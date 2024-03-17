@@ -5,7 +5,11 @@ Project Mentee from IBM Advance AI Infinite Learning [Course Python For Data Sci
 Name: Muhammad Raihan Ferdyansyah\
 Program: IBM Advance AI\
 Personal Mentor: Cindy Febriani\
-Group Member 7: Tahta Nieda Aulia & Muhammad Gunawan\
+Group Member 7:
+1. Tahta Nieda Aulia
+2. Me (Muhammad Raihan Ferdyansyah)
+3. Muhammad Gunawan
+
 Code review Videos: [Analisis Sentimen Komentar Instagram](https://youtu.be/y1wJTXMP9Vs)
 
 ## Author Info
